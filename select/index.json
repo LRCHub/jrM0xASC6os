@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カウントダウンラブ",
+  "base_artist": "I'm a Cutie Finder",
+  "createdAt": "2026-01-11T08:28:16.998776Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カウントダウンラブ",
+      "artist": "I'm a Cutie Finder",
+      "has_synced": false,
+      "path": "select/pl_01_カウントダウンラブ_I'm_a_Cutie_Finder.txt"
+    }
+  ]
+}
